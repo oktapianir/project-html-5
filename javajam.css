@@ -1,0 +1,28 @@
+body {
+  background-color: #fcebb6;
+  color: #221811;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+header {
+  background-color: #d2b48c;
+  text-align: center;
+}
+h1 {
+  line-height: 200%;
+}
+nav {
+  text-align: center;
+  font-weight: bold;
+}
+ul {
+  list-style-type: disc;
+  margin-left: 40px;
+}
+footer {
+  background-color: #d2b48c;
+  font-size: 0.6em;
+  text-align: center;
+  font-style: italic;
+}
